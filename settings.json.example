@@ -1,0 +1,15 @@
+{
+  "defaultModel": "deepseek-chat",
+  "defaultProvider": "deepseek",
+  "defaultThinkingLevel": "medium",
+  "lastChangelogVersion": "0.66.1",
+  "packages": [
+    "npm:@ollama/pi-web-search"
+  ],
+  "extensions": [
+    "~/.pi/agent/extensions/till-done.ts",
+    "~/.pi/agent/extensions/touch-grass.ts"
+  ],
+  "quietStartup": false,
+  "theme": "default"
+}
