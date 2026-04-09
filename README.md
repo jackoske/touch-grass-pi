@@ -1,6 +1,6 @@
 # touch-grass 🌿
 
-A [pi coding agent](https://github.com/mariozechner/pi-coding-agent) extension that tracks your session time and reminds you to take breaks — because vibe coding with AI agents is genuinely addictive, and you **will** forget to eat.
+A [pi coding agent](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) extension that tracks your session time and reminds you to take breaks — because vibe coding with AI agents is genuinely addictive, and you **will** forget to eat.
 
 ## Why this exists
 
